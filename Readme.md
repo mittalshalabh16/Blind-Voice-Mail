@@ -1,3 +1,4 @@
+![University logo](https://github.com/mittalshalabh16/Blind-Voice-Mail/blob/master/images/uni_logo.png)
 # GLA University Mathura, 2019
 ## Mini Project Synopsis
 ## BLIND VOICE MAIL
