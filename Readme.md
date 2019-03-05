@@ -4,7 +4,7 @@
 ## BLIND VOICE MAIL
 ## Team Members
 1. [Shalabh Kumar(161500498)](https://github.com/mittalshalabh16)
-2. [Alisha Raj(161500057)]()
+2. [Alisha Raj(161500057)](https://github.com/alisharaj1)
 
 ### Problem Statement
 
