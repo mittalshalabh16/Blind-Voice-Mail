@@ -127,3 +127,13 @@ ___
 
 
 ___
+
+___
+
+# Mockups
+
+![Homepage](https://github.com/mittalshalabh16/Blind-Voice-Mail/blob/master/images/Homepage.png)
+
+ ![Page 2](https://github.com/mittalshalabh16/Blind-Voice-Mail/blob/master/images/Page%202.png)
+ 
+ ![Page 3](https://github.com/mittalshalabh16/Blind-Voice-Mail/blob/master/images/Page%203.png)
